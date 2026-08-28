@@ -11,6 +11,8 @@ Aggregation & Fund Accounting: Validated purchases are programmatically aggregat
 Journal Entry Export: Finally, the script automatically calculates the necessary cash offsets for each fund and generates a structured, audit-ready spreadsheet optimized for direct journal entry upload into the enterprise budgeting software.
 
 📊 Process Flow Architecture
+
+```mermaid
 graph TD
     %% Styling
     classDef input fill:#fff3e0,stroke:#ff9800,stroke-width:2px;
@@ -39,6 +41,8 @@ graph TD
     class Ingest,Aggregate,Offset process;
     class Audit,Flag logic;
     class Export output;
+```
+
     
 🚀 Impact & Business ValueEfficiency: 
 Replaces manual visual validation, accelerating weekly ledger verification.Accuracy: Mitigates human data-entry errors by checking every account code programmatically before upload.Risk Mitigation: Automatically isolates unallocated transactions or invalid account configurations before they touch the master ledger.
