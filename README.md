@@ -7,7 +7,7 @@
 ***An automated data reconciliation and auditing pipeline built in Python.*** 
 Automated Expense Auditor (LedgerSync)An automated data reconciliation and auditing pipeline built in Python. This utility replaces manual, line-by-line spreadsheet verification by dynamically cross-referencing high-volume purchasing card program statements against enterprise general ledger (GL) and project accounts.
 
-* **📖 How It Works**
+**📖 How It Works**
 The script runs as an interactive command-line tool designed for financial administrators.
 
 * **User Ingestion Prompts:** The program prompts the user to enter the local file pathway for the target purchasing card reconciliation spreadsheet. It then requests the file pathway for the active GL and project accounts exported from the budgeting software.
