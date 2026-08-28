@@ -1,5 +1,10 @@
 ## finance-data-pipeline
-An automated data reconciliation and auditing pipeline built in Python. 
+
+**Try it Out**
+1.  Run mock_generator.py to created mock spreadsheets
+2.  Run reconciler.py to see how it works
+   
+***An automated data reconciliation and auditing pipeline built in Python.*** 
 Automated Expense Auditor (LedgerSync)An automated data reconciliation and auditing pipeline built in Python. This utility replaces manual, line-by-line spreadsheet verification by dynamically cross-referencing high-volume purchasing card program statements against enterprise general ledger (GL) and project accounts.
 
 📖 How It Works
