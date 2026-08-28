@@ -45,10 +45,10 @@ graph TD
 
     
 🚀 Impact & Business Value
-**Efficiency: **
+**Efficiency:**
 Replaces manual visual validation, accelerating weekly ledger verification.
 **Accuracy:** Mitigates human data-entry errors by checking every account code programmatically before upload.
-**Risk Mitigation: **Automatically isolates unallocated transactions or invalid account configurations before they touch the master ledger.
+**Risk Mitigation:** Automatically isolates unallocated transactions or invalid account configurations before they touch the master ledger.
 
 🔒 Confidentiality NoticeNote: 
 To maintain professional confidentiality and comply with data privacy standards, all real-world financial records, proprietary system architectures, and sensitive institutional identifiers have been completely stripped from this public repository. The project uses synthesized, randomized mock data generated purely to demonstrate the architectural pipeline and matching logic.
